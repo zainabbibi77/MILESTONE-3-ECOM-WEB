@@ -2,7 +2,7 @@ import Cart from "@/components/Cart";
 import Product from "@/components/Product";
 
 
-const products :Product[]=[
+const products :Product[] =[
   {
     id:"1",
     name:"Headphones",
@@ -50,3 +50,15 @@ export default function Home() {
   )
 }
     
+
+
+
+
+
+
+
+
+
+
+
+
